@@ -124,7 +124,7 @@ This homework is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+![heroku-app](https://calm-ridge-29260.herokuapp.com/)
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
